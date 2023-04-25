@@ -3,7 +3,7 @@
       font-size: 14px;
     }
   
-.c\:\#ccc { color: #ccc }
+.c\:blue { color: blue }
 .c\:green\|h:hover { color: green }
 .cur\:pointer { cursor: pointer }
 .fz\:30px { font-size: 3rem }

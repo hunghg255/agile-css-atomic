@@ -17,7 +17,7 @@
     "dev": "concurrently --kill-others \"npm run dev-vite\" \"npm run agile-css\""
   },
   "dependencies": {
-    "agile-css": "^2.1.1",
+    "agile-css": "^2.1.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
