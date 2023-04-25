@@ -9,7 +9,7 @@ function App() {
   const [count, setCount] = useState(0);
 
   return (
-    <div className='App'>
+    <div className='App c:red'>
       {/* {process.env.VITE_TEST} */}
       <Hello />
       {/* <div>

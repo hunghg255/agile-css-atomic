@@ -17,7 +17,6 @@
     "dev": "concurrently --kill-others \"npm run dev-vite\" \"npm run agile-css\""
   },
   "dependencies": {
-    "agile-css": "^2.1.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -29,6 +28,7 @@
     "@typescript-eslint/eslint-plugin": "^5.48.1",
     "@typescript-eslint/parser": "^5.48.1",
     "@vitejs/plugin-react": "^2.2.0",
+    "agile-css": "^2.1.5",
     "concurrently": "^8.0.1",
     "eslint": "^8.31.0",
     "eslint-config-react-app": "^7.0.1",
