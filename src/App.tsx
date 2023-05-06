@@ -4,6 +4,7 @@ import reactLogo from './assets/react.svg';
 import './App.css';
 import './styles/agile-css.css';
 import Hello from '@/components/Hello/Hello';
+import GithubCorners from 'react-gh-corners';
 
 function App() {
   const [count, setCount] = useState(0);
@@ -28,6 +29,8 @@ function App() {
         </p>
       </div>
       <p className='read-the-docs'>Click on the Vite and React logos to learn more</p> */}
+
+      <GithubCorners position='right' href='https://github.com/hunghg255/agile-css' />
     </div>
   );
 }
