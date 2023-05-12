@@ -3,9 +3,9 @@
       font-size: 14px;
     }
   
+.c\:red { color: red }
 .c\:blue { color: blue }
 .c\:green\|h:hover { color: green }
 .cur\:pointer { cursor: pointer }
 .fz\:30px { font-size: 3rem }
 .trs\:all_300ms_ease { transition: all 300ms ease }
-.c\:red { color: red }
