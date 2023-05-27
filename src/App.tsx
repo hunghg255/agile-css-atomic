@@ -4,7 +4,7 @@ import reactLogo from './assets/react.svg';
 import './App.css';
 import './styles/agile-css.css';
 import Hello from '@/components/Hello/Hello';
-import GithubCorners from 'react-gh-corners';
+import { GithubCorners } from 'react-gh-corners';
 
 function App() {
   const [count, setCount] = useState(0);
